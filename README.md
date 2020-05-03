@@ -9,6 +9,13 @@
 6) NYC Subway Stations: https://data.cityofnewyork.us/Transportation/Subway-Stations/arq3-7z49
 
 # **Timeline and Process** ⏱
+- [X] Clean property data
+- [ ] Create indpendent variables from the 5 other datasets (schools, healthy stores, farmers' markets, parks, subway stations) and merge with property data by *May 9th*
+- [ ] Feature selection with Boruta and/or Random Forest *May 16th*
+- [ ] Train various models and pick the one with the smallest MAE *May 23th*
+- [ ] Map prediction results vs actual in Manhattan *May 30th*
+- [ ] Map prediction results vs actual in another borough *June 6th*
+
 ## **(1) Data Cleaning and Wrangling**
 
 ## **(2) Feature Selection**
