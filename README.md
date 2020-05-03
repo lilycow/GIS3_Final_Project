@@ -8,6 +8,11 @@
 5) NYC Parks: https://data.cityofnewyork.us/Recreation/Open-Space-Parks-/g84h-jbjm
 6) NYC Subway Stations: https://data.cityofnewyork.us/Transportation/Subway-Stations/arq3-7z49
 
-**(1) Cleaning the Data**
+**(1) Data Cleaning and Wrangling**
 
+**(2) Feature Selection**
+
+**(3) Model Training**
+
+**(4) Maps and Graphs**
 
