@@ -19,7 +19,7 @@
 - [ ] Map prediction results vs actual in another borough *June 6th*
 
 ## **(1) Data Cleaning and Wrangling**
-Current progress: https://htmlpreview.github.io/?https://raw.githubusercontent.com/lcao21/GIS3_Final_Project/master/Data%20Cleaning%20and%20Wrangling.html
+**Current progress:** https://htmlpreview.github.io/?https://raw.githubusercontent.com/lcao21/GIS3_Final_Project/master/Data%20Cleaning%20and%20Wrangling.html
 
 ## **(2) Feature Selection**
 
