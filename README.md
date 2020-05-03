@@ -10,7 +10,7 @@
 
 # **Timeline and Process** ⏱
 - [X] Clean property data
-- [ ] Create indpendent variables from the 5 other datasets (schools, healthy stores, farmers' markets, parks, subway stations) and merge with property data by *May 9th*
+- [ ] Create indpendent variables from the 5 other datasets (schools, healthy stores, farmers' markets, parks, subway stations) and merge with property data *May 9th*
 - [ ] Feature selection with Boruta and/or Random Forest *May 16th*
 - [ ] Train various models and pick the one with the smallest MAE *May 23th*
 - [ ] Map prediction results vs actual in Manhattan *May 30th*
