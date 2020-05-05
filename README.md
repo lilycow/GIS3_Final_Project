@@ -1,5 +1,7 @@
 # GIS3 Final Project: Predicting Manhattan Home Sales 🏠
 
+**Current Progress:** https://htmlpreview.github.io/?https://raw.githubusercontent.com/lcao21/GIS3_Final_Project/master/Progress/5%3A5.html
+
 # **Data Sources** 📑
 1) NYC Property Rolling Sales: https://www1.nyc.gov/site/finance/taxes/property-rolling-sales-data.page 
     * Titled "manhattan.csv" in the data folder
@@ -20,8 +22,6 @@
 - [ ] Get and map prediction results for new data *June 6th*
 
 ## **(1) Data Cleaning and Wrangling**
-**Current progress:** https://htmlpreview.github.io/?https://raw.githubusercontent.com/lcao21/GIS3_Final_Project/master/Progress/5%3A5.html
-
 **Libraries Used:** data.table, stringr, ggmap, OpenStreetMap, tmaptools, dplyr, lubridate, ggplot2, ggrepel, tidyverse, osmdata, sf, rgeos, rgdal,
 
 **Geocomputation Operations Used:** st_as_sf(), ggmap(), geom_point(), proj4string(), subset(), st_intersection(), merge(), get_stamenmap(), st_transform(), st_buffer(), group_by(), as.numeric()
