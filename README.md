@@ -22,9 +22,9 @@
 ## **(1) Data Cleaning and Wrangling**
 **Current progress:** https://htmlpreview.github.io/?https://raw.githubusercontent.com/lcao21/GIS3_Final_Project/master/Progress/5%3A5.html
 
-Libraries Used: data.table, stringr, ggmap, OpenStreetMap, tmaptools, dplyr, lubridate, ggplot2, ggrepel, tidyverse, osmdata, sf, rgeos, rgdal,
+**Libraries Used:** data.table, stringr, ggmap, OpenStreetMap, tmaptools, dplyr, lubridate, ggplot2, ggrepel, tidyverse, osmdata, sf, rgeos, rgdal,
 
-Geocomputation Operations Used: st_as_sf(), ggmap(), geom_point(), proj4string(), subset(), st_intersection(), merge(), get_stamenmap(), st_transform(), st_buffer(), group_by(), as.numeric()
+**Geocomputation Operations Used:** st_as_sf(), ggmap(), geom_point(), proj4string(), subset(), st_intersection(), merge(), get_stamenmap(), st_transform(), st_buffer(), group_by(), as.numeric()
 
 ## **(2) Feature Selection**
 
