@@ -26,8 +26,6 @@
 
 **Geocomputation Operations Used:** st_as_sf(), ggmap(), geom_point(), proj4string(), subset(), st_intersection(), merge(), get_stamenmap(), st_transform(), st_buffer(), group_by(), as.numeric()
 
-![alt text](https://github.com/lcao21/GIS3_Final_Project/blob/master/Maps%20and%20Graphs/homesbysaleprice.png =100x100)
-
 ## **(2) Feature Selection**
 
 ## **(3) Model Training**
