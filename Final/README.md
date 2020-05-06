@@ -1,10 +1,11 @@
-# R Code (HTML)
-## Data Cleaning and Wrangling
+# Files in this folder
 
-## Feature Selection
+### Data Cleaning and Wrangling (HTML)
 
-## Model Training
+### Feature Selection (HTML)
 
-## Results 
+### Model Training (HTML)
 
-# Final Report (PDF)
+### Results (HTML)
+
+### Final Report (PDF)
