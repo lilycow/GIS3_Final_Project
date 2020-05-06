@@ -20,6 +20,7 @@
 - [ ] Map prediction results vs actual in Manhattan *May 30th*
 - [ ] Map prediction results vs actual in another borough *June 6th*
 - [ ] Get and map prediction results for new data *June 6th*
+- [ ] Clean up files and repository. Write final report. *June 6th*
 
 ## **(1) Data Cleaning and Wrangling**
 **Libraries Used:** data.table, stringr, ggmap, OpenStreetMap, tmaptools, dplyr, lubridate, ggplot2, ggrepel, tidyverse, osmdata, sf, rgeos, rgdal,
