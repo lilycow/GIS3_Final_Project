@@ -1,6 +1,6 @@
 # GIS3 Final Project: Predicting Manhattan Home Sales 🏠
 
-**Current Progress:** https://htmlpreview.github.io/?https://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/5:6_Data_Cleaning_Done.html
+**Last Worked On:** https://htmlpreview.github.io/?https://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/5:6_Data_Cleaning_Done.html
 
 # **Data Sources** 📑
 1) NYC Property Rolling Sales: https://www1.nyc.gov/site/finance/taxes/property-rolling-sales-data.page 
@@ -23,9 +23,11 @@
 - [ ] Clean up files and repository. Write final report. *June 6th*
 
 ## **(1) Data Cleaning and Wrangling**
+**File:** https://htmlpreview.github.io/?https://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/5:6_Data_Cleaning_Done.html
+
 **Packages:** formattable, data.table, stringr, ggmap, tmaptools, dplyr, lubridate, ggplot2, ggrepel, tidyverse, osmdata, sf, rgeos, rgdal, geojsonsf
 
-**Geocomputation Operations Used:** st_as_sf(), ggmap(), geom_point(), proj4string(), subset(), st_intersection(), merge(), get_stamenmap(), st_transform(), st_buffer(), group_by(), as.numeric()
+**Geocomputation Operations:** st_as_sf(), ggmap(), geom_point(), proj4string(), subset(), st_intersection(), merge(), get_stamenmap(), st_transform(), st_buffer(), group_by(), as.numeric()
 
 ## **(2) Feature Selection**
 
