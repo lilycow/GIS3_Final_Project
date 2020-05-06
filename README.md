@@ -1,6 +1,6 @@
 # GIS3 Final Project: Predicting Manhattan Home Sales 🏠
 
-**Current Progress:** https://htmlpreview.github.io/?https://raw.githubusercontent.com/lcao21/GIS3_Final_Project/master/Progress/5%3A6.html
+**Current Progress:** https://htmlpreview.github.io/?https://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/5:6_Data_Cleaning_Done.html
 
 # **Data Sources** 📑
 1) NYC Property Rolling Sales: https://www1.nyc.gov/site/finance/taxes/property-rolling-sales-data.page 
@@ -14,7 +14,7 @@
 
 # **Timeline and Process** ⏱
 - [X] Clean property data
-- [ ] Create indpendent variables from the 5 other datasets (schools, healthy stores, farmers' markets, parks, subway stations) and merge with property data *May 9th*
+- [X] Create indpendent variables from the 5 other datasets (schools, healthy stores, farmers' markets, parks, subway stations) and merge with property data *May 9th*
 - [ ] Feature selection with Boruta and/or Random Forest *May 16th*
 - [ ] Train various models and pick the one with the smallest MAE *May 23th*
 - [ ] Map prediction results vs actual in Manhattan *May 30th*
@@ -23,7 +23,7 @@
 - [ ] Clean up files and repository. Write final report. *June 6th*
 
 ## **(1) Data Cleaning and Wrangling**
-**Libraries Used:** data.table, stringr, ggmap, OpenStreetMap, tmaptools, dplyr, lubridate, ggplot2, ggrepel, tidyverse, osmdata, sf, rgeos, rgdal,
+**Packages:** formattable, data.table, stringr, ggmap, tmaptools, dplyr, lubridate, ggplot2, ggrepel, tidyverse, osmdata, sf, rgeos, rgdal, geojsonsf
 
 **Geocomputation Operations Used:** st_as_sf(), ggmap(), geom_point(), proj4string(), subset(), st_intersection(), merge(), get_stamenmap(), st_transform(), st_buffer(), group_by(), as.numeric()
 
