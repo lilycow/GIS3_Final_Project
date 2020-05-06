@@ -1,6 +1,6 @@
 # GIS3 Final Project: Predicting Manhattan Home Sales 🏠
 
-**Current Progress:** https://htmlpreview.github.io/?https://raw.githubusercontent.com/lcao21/GIS3_Final_Project/master/Progress/5%3A5.html
+**Current Progress:** https://htmlpreview.github.io/?https://raw.githubusercontent.com/lcao21/GIS3_Final_Project/master/Progress/5%3A6.html
 
 # **Data Sources** 📑
 1) NYC Property Rolling Sales: https://www1.nyc.gov/site/finance/taxes/property-rolling-sales-data.page 
