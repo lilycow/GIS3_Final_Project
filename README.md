@@ -1,6 +1,6 @@
 # GIS3 Final Project: Predicting Manhattan Home Sales 🏠
 
-**Last Worked On:** https://htmlpreview.github.io/?hhttps://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/Data_Clean.html
+**Last Worked On:** https://htmlpreview.github.io/?https://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/Feature_Selection.html
 
 # **Data Sources** 📑
 1) NYC Property Rolling Sales: https://www1.nyc.gov/site/finance/taxes/property-rolling-sales-data.page 
@@ -19,7 +19,7 @@
 # **Timeline and Process** ⏱
 - [X] Clean property data
 - [X] Create indpendent variables from the 5 other datasets (schools, healthy stores, farmers' markets, parks, subway stations) and merge with property data *May 9th*
-- [ ] Feature selection with Boruta and/or Random Forest *May 16th*
+- [X] Feature selection with Boruta *May 16th*
 - [ ] Train various models and pick the one with the smallest MAE *May 23th*
 - [ ] Map prediction results vs actual in Manhattan *May 30th*
 - [ ] Map prediction results vs actual in another borough *June 6th*
@@ -34,6 +34,10 @@
 **Geocomputation Operations:** st_as_sf(), ggmap(), geom_point(), proj4string(), subset(), st_intersection(), merge(), get_stamenmap(), st_transform(), st_buffer(), group_by(), as.numeric()
 
 ## **(2) Feature Selection**
+
+**File:** https://htmlpreview.github.io/?https://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/Feature_Selection.html
+
+**Packages:** formattable, Boruta
 
 ## **(3) Model Training**
 
