@@ -37,7 +37,7 @@
 
 **File:** https://htmlpreview.github.io/?https://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/Feature_Selection.html
 
-**Packages:** formattable, Boruta
+**Packages:** formattable, Boruta, corrplot
 
 ## **(3) Model Training**
 
