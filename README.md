@@ -39,7 +39,7 @@
 
 ## **(3) Model Training**
 
-**File:** https://htmlpreview.github.io/?https://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/Model_Selection.html
+**File:** https://htmlpreview.github.io/?https://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/Model_Training.html
 
 **Packages:** formattable, caret, Metrics, dplyr, randomForest, gbm
 
