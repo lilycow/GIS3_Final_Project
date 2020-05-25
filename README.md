@@ -20,7 +20,7 @@
 - [X] Clean property data
 - [X] Create indpendent variables from the 5 other datasets (schools, healthy stores, farmers' markets, parks, subway stations) and merge with property data *May 9th*
 - [X] Feature selection with Boruta *May 16th*
-- [ ] Train various models and pick the one with the smallest MAE *May 23th*
+- [X] Train various models and pick the one with the smallest MAE *May 23th*
 - [ ] Map prediction results vs actual in Manhattan *May 30th*
 - [ ] Map prediction results vs actual in another borough *June 6th*
 - [ ] Get and map prediction results for new data *June 6th*
@@ -40,6 +40,10 @@
 **Packages:** formattable, Boruta, corrplot
 
 ## **(3) Model Training**
+
+**File:** https://htmlpreview.github.io/?https://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/Model_Selection.html
+
+**Packages:** formattable, caret, Metrics, dplyr, randomForest, gbm
 
 ## **(4) Results** 
 
