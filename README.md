@@ -19,7 +19,7 @@
 - [X] Create indpendent variables from the 5 other datasets (schools, healthy stores, farmers' markets, parks, subway stations) and merge with property data *May 9th*
 - [X] Feature selection with Boruta *May 16th*
 - [X] Train various models and pick the one with the smallest MAE *May 23th*
-- [ ] Map prediction results vs actual in Manhattan *May 30th*
+- [X] Map prediction results vs actual in Manhattan *May 30th*
 - [ ] Map prediction results vs actual in another borough *June 6th*
 - [ ] Get and map prediction results for new data *June 6th*
 - [ ] Clean up files and repository. Write final report. *June 6th*
@@ -36,6 +36,7 @@
 **Packages:** formattable, caret, Metrics, dplyr, randomForest, gbm
 
 ## **(4) Results** 
+**Packages:** formattable, caret, gbm, dplyr, leaflet, sf, sp, tmap
 
 ## **(5) Another Borough and New Data** 
 
