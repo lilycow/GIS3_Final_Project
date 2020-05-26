@@ -25,22 +25,14 @@
 - [ ] Clean up files and repository. Write final report. *June 6th*
 
 ## **(1) Data Cleaning and Wrangling**
-**File:** https://htmlpreview.github.io/?https://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/Data_Clean.html
-
 **Packages:** formattable, data.table, stringr, ggmap, tmaptools, dplyr, lubridate, ggplot2, ggrepel, tidyverse, osmdata, sf, rgeos, rgdal, geojsonsf
 
 **Geocomputation Operations:** st_as_sf(), ggmap(), geom_point(), proj4string(), subset(), st_intersection(), merge(), get_stamenmap(), st_transform(), st_buffer(), group_by(), as.numeric()
 
 ## **(2) Feature Selection**
-
-**File:** https://htmlpreview.github.io/?https://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/Feature_Selection.html
-
 **Packages:** formattable, Boruta, corrplot
 
 ## **(3) Model Training**
-
-**File:** https://htmlpreview.github.io/?https://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/Model_Training.html
-
 **Packages:** formattable, caret, Metrics, dplyr, randomForest, gbm
 
 ## **(4) Results** 
