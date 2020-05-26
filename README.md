@@ -13,6 +13,8 @@
     * Read in as geojson file
 6) NYC Subway Stations: https://data.cityofnewyork.us/Transportation/Subway-Stations/arq3-7z49
     * Read in as geojson file
+7) Neighborhood Tabulation Areas (NTA): https://data.cityofnewyork.us/City-Government/Neighborhood-Tabulation-Areas-NTA-/cpf4-rkhq
+    * Read in as shapefile
 
 # **Timeline and Process** ⏱
 - [X] Clean property data
