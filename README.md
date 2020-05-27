@@ -1,6 +1,9 @@
 # GIS3 Final Project: Predicting Manhattan Home Sales 🏠
+## Lily Cao
 
-# **Data Sources** 📑
+# **Goals & Objectives** 📌
+
+# **Data** 📑
 1) NYC Property Rolling Sales: https://www1.nyc.gov/site/finance/taxes/property-rolling-sales-data.page 
     * Titled "manhattan.csv" in the data folder
 2) NYC School Locations: https://data.cityofnewyork.us/Education/2019-2020-School-Locations/wg9x-4ke6
@@ -15,6 +18,10 @@
     * Read in as geojson file
 7) Neighborhood Tabulation Areas (NTA): https://data.cityofnewyork.us/City-Government/Neighborhood-Tabulation-Areas-NTA-/cpf4-rkhq
     * Read in as shapefile
+    
+# **Figures** 🗺
+
+# **Future Work**❓
 
 # **Timeline and Process** ⏱
 - [X] Clean property data
@@ -24,20 +31,4 @@
 - [X] Map prediction results vs actual in Manhattan *May 30th*
 - [ ] Get and map prediction results for new data *June 6th*
 - [ ] Clean up files and repository. Write final report. *June 6th*
-
-## **(1) Data Cleaning and Wrangling**
-**Packages:** formattable, data.table, stringr, ggmap, tmaptools, dplyr, lubridate, ggplot2, ggrepel, tidyverse, osmdata, sf, rgeos, rgdal, geojsonsf
-
-**Geocomputation Operations:** st_as_sf(), ggmap(), geom_point(), proj4string(), subset(), st_intersection(), merge(), get_stamenmap(), st_transform(), st_buffer(), group_by(), as.numeric()
-
-## **(2) Feature Selection**
-**Packages:** formattable, Boruta, corrplot
-
-## **(3) Model Training**
-**Packages:** formattable, caret, Metrics, dplyr, randomForest, gbm
-
-## **(4) Results** 
-**Packages:** formattable, caret, gbm, dplyr, leaflet, sf, sp, tmap
-
-## **(5) Results for New Data** 
 
