@@ -1,5 +1,9 @@
-# GIS3 Final Project: Predicting Manhattan Home Sales 🏠
-Lily Cao
+# GIS 3 Final Project: Predicting Manhattan Home Sales 🏠
+by Lily Cao 
+
+For my GIS 3 final project, I wanted to train a model to predict housing prices in Manhattan, New York. The main reason I chose this topic was to better understand how real estate companies like Zillow estimate homes that are not even on the market. These companies and real estate agents likely use a wide array of models to determine their respective predictions, especially since every type of property and locations has its own specifics. Though the final model will be most useful for people who are thinking of putting their houses on the markets, it will also be useful for those who are considering moving to Manhattan and want to find the best valued home. 
+
+Furthermore, housing prices are an important indicator of the economy. The data I am using is on rolling sales from the last 12 months (April 2019 – March 2020). The coronavirus outbreak will change or is already changing the real estate market and so building a model of data from this timeline will hopefully give insight into housing prices in the midst of this outbreak
 
 # **Goals & Objectives** 📌
 
@@ -32,7 +36,7 @@ See the "Code" folder for the following HTML files:
 
 # **Future Work**❓
 
-# **Timeline and Process** ⏱
+# **Timeline** ⏱
 - [X] Clean property data
 - [X] Create indpendent variables from the 5 other datasets (schools, healthy stores, farmers' markets, parks, subway stations) and merge with property data *May 9th*
 - [X] Feature selection with Boruta *May 16th*
