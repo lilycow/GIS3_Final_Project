@@ -20,6 +20,15 @@
     * Read in as shapefile
     
 # **Figures** 🗺
+See the "Figures" folder for maps and plots.
+
+# **Code** 💻
+See the "Code" folder for the following HTML files:
+1) Data Cleaning and Wrangling
+2) Feature Selection
+3) Model Training
+4) Results
+5) Results for New Data
 
 # **Future Work**❓
 
