@@ -1,5 +1,5 @@
 # GIS3 Final Project: Predicting Manhattan Home Sales 🏠
-## Lily Cao
+Lily Cao
 
 # **Goals & Objectives** 📌
 
