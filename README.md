@@ -1,7 +1,5 @@
 # GIS3 Final Project: Predicting Manhattan Home Sales 🏠
 
-**Last worked on**: https://htmlpreview.github.io/?https://raw.githubusercontent.com/lcao21/GIS3_Final_Project/master/Progress/Part4Draft.html
-
 # **Data Sources** 📑
 1) NYC Property Rolling Sales: https://www1.nyc.gov/site/finance/taxes/property-rolling-sales-data.page 
     * Titled "manhattan.csv" in the data folder
@@ -24,7 +22,6 @@
 - [X] Feature selection with Boruta *May 16th*
 - [X] Train various models and pick the one with the smallest MAE *May 23th*
 - [X] Map prediction results vs actual in Manhattan *May 30th*
-- [ ] Map prediction results vs actual in another borough *June 6th*
 - [ ] Get and map prediction results for new data *June 6th*
 - [ ] Clean up files and repository. Write final report. *June 6th*
 
@@ -42,5 +39,5 @@
 ## **(4) Results** 
 **Packages:** formattable, caret, gbm, dplyr, leaflet, sf, sp, tmap
 
-## **(5) Another Borough and New Data** 
+## **(5) Results for New Data** 
 
