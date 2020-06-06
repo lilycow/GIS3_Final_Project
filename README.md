@@ -47,7 +47,7 @@ See the "Code" folder for the following HTML files:
 5) Results for New Data
 
 # **Future Work**❓
-In this project
+In the future, I want to test this model on other boroughs and in turn, train new models more appropriate for each borough. Furthermore, I trained this model only on Manhattan home sales data from the past year and so another future goal would be to expand the time period of the data. For instance, incorporating data from the 2007-2008 recession would likely have a big impact on the final model. Lastly, I want to include more independent variables, as there are many more factors that go into determining sale price, namely the economy. There are also qualitative factors like aesthetics that would be interesting to quantify and incorporate.
 
 # **Timeline** ⏱
 - [X] Clean property data
