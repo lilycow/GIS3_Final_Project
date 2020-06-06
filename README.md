@@ -3,7 +3,7 @@ by Lily Cao
 
 For my GIS 3 final project, I trained a model to predict housing prices in Manhattan, New York. 
 
-# **Overview**
+# **Overview** ✴️
 
 # **Goals & Objectives** 📌
 Though my ultimate goal was to train a model to best predict Manhattan home sales, I also had smaller goals integral to the process. I wanted to include external independent variables not provided by the sales dataset and did so by calculating how many high schools, food vendors, parks, and subway stations were located within a buffer of each home. I also created a fifth independent variable that ranked neighborhood locations based on median incomes. By the end of the project, I will have a) a trained model; b) maps to visualize the predictions; c) prediction results for data on Manhattan home sales. 
