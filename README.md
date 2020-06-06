@@ -16,18 +16,19 @@ The main reason I chose this topic was to better understand how real estate comp
     * Vars used: NEIGHBORHOOD, BUILDING CLASS CATEGORY, ADDRESS, RESIDENTIAL UNITS, COMMERCIAL UNITS, TOTAL UNITS, LAND       SQUARE FEET, GROSS SQUARE FEET, SALE PRICE
 2) NYC School Locations: https://data.cityofnewyork.us/Education/2019-2020-School-Locations/wg9x-4ke6
     * Titled "schools.csv" in the data folder
-    * Vars used:
+    * Vars used: Location Category Description, Grades Final Text, Longitude, Latitude
 3) NYC Healthy Stores: https://data.cityofnewyork.us/Health/Recognized-Shop-Healthy-Stores/ud4g-9x9z
     * Titled "healthystores.csv" in the data folder
-    * Vars used:
+    * Vars used: Borough, Latitude, Longitude
 4) NYC Farmers' Markets: https://data.cityofnewyork.us/dataset/DOHMH-Farmers-Markets/8vwk-6iz2
     * Titled "farmersmarkets.csv" in the data folder
-    * Vars used:
+    * Vars used: Borough, Latitude, Longitude
 5) NYC Parks: https://data.cityofnewyork.us/Recreation/Open-Space-Parks-/g84h-jbjm
     * Read in as geojson file
-    * Vars used:
+    * Vars used: Shape Leng, Shape Area, Geometry
 6) NYC Subway Stations: https://data.cityofnewyork.us/Transportation/Subway-Stations/arq3-7z49
     * Read in as geojson file
+    * Vars used: Geometry
 7) NYC Neighborhood Affordability: https://ny.curbed.com/2017/8/4/16099252/new-york-neighborhood-affordability
 8) Neighborhood Tabulation Areas (NTA): https://data.cityofnewyork.us/City-Government/Neighborhood-Tabulation-Areas-NTA-/cpf4-rkhq
     * Read in as shapefile
