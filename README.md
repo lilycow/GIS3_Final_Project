@@ -1,12 +1,10 @@
 # GIS 3 Final Project: Predicting Manhattan Home Sales 🏠
 by Lily Cao 
 
-For my GIS 3 final project, I trained a model to predict housing prices in Manhattan, New York. 
-
-# **Overview** ✴️
+For my GIS 3 final project, I trained a model to predict housing prices in Manhattan, New York. The process included 4 main steps: 1) Cleaning the data; 2) Feature selection; 3) Training the models; and 4) Mapping the predictions. In the first step, beyond just cleaning the data, I created additional independent variables and merged those with the slaes data. In the second step, I used the Boruta method and package to select which of these variables were most important in predicting slae prices. Then, I was able to train 4 different models on the data and figure out which model worked best based on its mean absolute error. Lastly, I mapped the results and created additional figures to help visualize them. 
 
 # **Goals & Objectives** 📌
-Though my ultimate goal was to train a model to best predict Manhattan home sales, I also had smaller goals integral to the process. I wanted to include external independent variables not provided by the sales dataset and did so by calculating how many high schools, food vendors, parks, and subway stations were located within a buffer of each home. I also created a fifth independent variable that ranked neighborhood locations based on median incomes. By the end of the project, I will have a) a trained model; b) maps to visualize the predictions; c) prediction results for data on Manhattan home sales. 
+Though my ultimate goal was to train a model to best predict Manhattan home sales, I also had smaller goals integral to the process. I wanted to include new independent variables not provided by the sales dataset and did so by calculating how many high schools, food vendors, parks, and subway stations were located within a buffer of each home. I also created a fifth independent variable that ranked neighborhood locations based on median incomes. By the end of the project, I will have a) a trained model; b) maps to visualize the predictions; c) prediction results for data on Manhattan home sales. 
 
 The main reason I chose this topic was to better understand how real estate companies like Zillow estimate homes that are not even on the market. These companies and real estate agents likely use a wide array of models to determine their respective predictions, especially since every type of property and locations has its own specifics. Though the final model will be most useful for people who are thinking of putting their houses on the markets, it will also be useful for those who are considering moving to Manhattan and want to find the best valued home. Furthermore, housing prices are an important indicator of the economy. The data I am using is on rolling sales from the last 12 months (April 2019 – March 2020). The coronavirus outbreak will change or is already changing the real estate market and so building a model of data from this timeline will hopefully give insight into housing prices in the midst of this outbreak.
 
@@ -48,12 +46,3 @@ See the "Code" folder for the following HTML files:
 
 # **Future Work**❓
 In the future, I want to test this model on other boroughs and in turn, train new models more appropriate for each borough. Furthermore, I trained this model only on Manhattan home sales data from the past year and so another future goal would be to expand the time period of the data. For instance, incorporating data from the 2007-2008 recession would likely have a big impact on the final model. Lastly, I want to include more independent variables, as there are many more factors that go into determining sale price, namely the economy. There are also qualitative factors like aesthetics that would be interesting to quantify and incorporate.
-
-# **Timeline** ⏱
-- [X] Clean property data
-- [X] Create indpendent variables from the 5 other datasets (schools, healthy stores, farmers' markets, parks, subway stations) and merge with property data *May 9th*
-- [X] Feature selection with Boruta *May 16th*
-- [X] Train various models and pick the one with the smallest MAE *May 23th*
-- [X] Map prediction results vs actual in Manhattan *May 30th*
-- [X] Clean up files and repository. Write final report. *June 6th*
-
