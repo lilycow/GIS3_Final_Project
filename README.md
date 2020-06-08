@@ -51,12 +51,13 @@ I used datasets 2-7 to create new independent variables, in addition to the ones
 These are just a few of the visualizations I created:
 
 <p float="left">
+   Map of Manhattan homes by sale price
   <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/home_sales.png" width="250" />
   <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/homes_schools_int.png" width="250" /> 
   <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/homes_food_int.png" width="250" />
 </p>
 
-*Left to right: Map of Manhattan homes by sale price; Map of intersections between homes and high schools; Map of intersections between homes and food vendors*    
+*Left to right:* Map of Manhattan homes by sale price; map of intersections between homes and high schools; map of intersections between homes and food vendors    
 
 *Boruta rankings of features by importance*  
 <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/Boruta.png" width="250">
@@ -82,6 +83,7 @@ These are just a few of the visualizations I created:
 <p float="left">
   <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/abs_diff.png" width="250" />
   <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/neigh_mae.png" width="250" /> 
+  <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/pred_v_actual.png" width="250" /> 
 </p>
 
 
