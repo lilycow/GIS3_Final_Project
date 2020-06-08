@@ -39,7 +39,7 @@ These are just a few of the visualizations I created:
 # **Code** 💻
 1) Data Cleaning and Wrangling: https://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/Part1.html
    * Cleaned the dataset on property rolling sales including filtering for homes located in Manhattan and geocoding addresses
-   * Used datasets 2-7 to create 5 new independent variables to merge with the home sales dataframe: num_schools, num_food, num_parks, num_subway,neighborhood_ord
+   * Used datasets 2-7 to create 5 new independent variables to merge with the home sales dataframe: num_schools, num_food, num_parks, num_subway, neighborhood_ord
 2) Feature Selection: https://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/Part2.html
    * Used Boruta to find the most important features in predicting sale price
    * Of the 12 independent variables I chose, 7 were deemed important: num_food, num_subway, num_parks, num_schools, neighborhood_ord, RESIDENTIAL.UNITS, LAND.SQUARE.FEET
