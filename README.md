@@ -44,8 +44,8 @@ I used datasets 2-7 to create new independent variables, in addition to the ones
    * Normalized data and split it into training (70%) and testing (30%) sets
    * Trained 4 different models: OLS, Poisson, Random Forest, GBM (Generalized Boosted Machine)
    * Ultimately picked GBM since it had the smallest MAE (mean absolute error)
-4) Results:
-   * Created maps to visualize predictions vs actual sale prices
+4) Results: https://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/Part4.html
+   * Created maps to visualize predictions vs actual sale prices 
    
 # **Figures** 🗺
 These are just a few of the visualizations I created:
@@ -68,6 +68,11 @@ These are just a few of the visualizations I created:
 *Trained models by MAE value*    
 <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/model_maes.png" width="300">
 
+<p float="left">
+  <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/num_schools.png" width="250" />
+  <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/num_parks.png" width="250" /> 
+  <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/num_food.png" width="250" />
+</p>
 
 # **Future Work**❓
 In the future, I want to test this model on other boroughs and in turn, train new models more appropriate for each borough. Furthermore, I trained this model only on Manhattan home sales data from the past year and so another future goal would be to expand the time period of the data. For instance, incorporating data from the 2007-2008 recession would likely have a big impact on the final model. Lastly, I want to include more independent variables, as there are many more factors that go into determining sale price, namely the economy. There are also qualitative factors like aesthetics that would be interesting to quantify and incorporate.
