@@ -48,17 +48,26 @@ I used datasets 2-7 to create new independent variables, in addition to the ones
    * Created maps to visualize predictions vs actual sale prices
    
 # **Figures** 🗺
-These are just a few of the visualizations I created for the following parts:
+These are just a few of the visualizations I created:
 
-1) Data Cleaning and Wrangling
-<img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/home_sales.png" width="200">
+Map of Manhattan homes by sale price
+<img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/home_sales.png" width="250">
 
+Map of intersections between homes and high schools
+<img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/homes_schools_int.png" width="250">
 
-2) Feature Selection
+Map of intersections between homes and food vendors
+<img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/homes_food_int.png" width="250">
 
-3) Model Training
+Boruta rankings for features by importance
+<img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/Boruta.png" width="250">
 
-4) Results
+Correlation plot for 7 features deemed important
+<img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/corr_plot.png" width="250">
+
+Model predictions by MAE 
+<img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/model_maes.png" width="250">
+
 
 # **Future Work**❓
 In the future, I want to test this model on other boroughs and in turn, train new models more appropriate for each borough. Furthermore, I trained this model only on Manhattan home sales data from the past year and so another future goal would be to expand the time period of the data. For instance, incorporating data from the 2007-2008 recession would likely have a big impact on the final model. Lastly, I want to include more independent variables, as there are many more factors that go into determining sale price, namely the economy. There are also qualitative factors like aesthetics that would be interesting to quantify and incorporate.
