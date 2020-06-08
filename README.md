@@ -34,7 +34,7 @@ The main reason I chose this topic was to better understand how real estate comp
 I used datasets 2-7 to create new independent variables, in addition to the ones I included from the original rolling sales data. For datasets 2-5, each variable represented the number of schools, food vendors, parks, or subway stations within a 1 mile buffer of each home. I used an article from curbed.com to create a variable that ranks the neighborhood of each home by affordability. So, before feature selection, the independent variables I considered were num_schools,num_parks, num_food, num_subway, neighborhood_ord, RESIDENTIAL.UNITS, COMMERCIAL.UNITS, LAND.SQUARE.FEET, GROSS.SQUARE.FEET.
  
 # **Code** 💻
-* Append to the URL: http://htmlpreview.github.io/? to view without downloading
+*Append each URL to http://htmlpreview.github.io/? to view without downloading*
 
 1) Data Cleaning and Wrangling: https://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/Part1.html
    * Cleaned the dataset on property rolling sales including filtering for homes located in Manhattan and geocoding addresses
