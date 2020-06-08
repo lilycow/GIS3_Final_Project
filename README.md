@@ -50,14 +50,13 @@ I used datasets 2-7 to create new independent variables, in addition to the ones
 # **Figures** 🗺
 These are just a few of the visualizations I created:
 
-*Map of Manhattan homes by sale price*    
-<img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/home_sales.png" width="250">
+<p float="left">
+  <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/home_sales.png" width="250" />
+  <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/homes_schools_int.png" width="250" /> 
+  <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/homes_food_int.png" width="250" />
+</p>
 
-*Map of intersections between homes and high schools*  
-<img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/homes_schools_int.png" width="250">
-
-*Map of intersections between homes and food vendors*  
-<img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/homes_food_int.png" width="250">
+*Left to right: Map of Manhattan homes by sale price; Map of intersections between homes and high schools; Map of intersections between homes and food vendors*    
 
 *Boruta rankings of features by importance*  
 <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/Boruta.png" width="250">
@@ -73,6 +72,19 @@ These are just a few of the visualizations I created:
   <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/num_parks.png" width="250" /> 
   <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/num_food.png" width="250" />
 </p>
+
+<p float="left">
+  <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/num_sub.png" width="250" />
+  <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/res_units.png" width="250" /> 
+  <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/land_sq.png" width="250" />
+</p>
+
+<p float="left">
+  <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/abs_diff.png" width="250" />
+  <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/neigh_mae.png" width="250" /> 
+</p>
+
+
 
 # **Future Work**❓
 In the future, I want to test this model on other boroughs and in turn, train new models more appropriate for each borough. Furthermore, I trained this model only on Manhattan home sales data from the past year and so another future goal would be to expand the time period of the data. For instance, incorporating data from the 2007-2008 recession would likely have a big impact on the final model. Lastly, I want to include more independent variables, as there are many more factors that go into determining sale price, namely the economy. There are also qualitative factors like aesthetics that would be interesting to quantify and incorporate.
