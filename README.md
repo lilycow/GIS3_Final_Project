@@ -52,13 +52,13 @@ These are just a few of the visualizations I created:
 
 *Left to right: Map of Manhattan homes by sale price; map of intersections between homes and high schools; map of intersections between homes and food vendors*    
 <p float="left">
-  <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/home_sales.png" width="250" />
+  <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/home_sales.png" width="300" />
   <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/homes_schools_int.png" width="250" /> 
   <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/homes_food_int.png" width="250" />
 </p>
 
 *Boruta rankings of features by importance*  
-<img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/Boruta.png" width="250">
+<img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/Boruta.png" width="300">
 
 *Correlation plot of 7 features deemed important*   
 <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/corr_plot.png" width="250">
