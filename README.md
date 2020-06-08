@@ -37,12 +37,10 @@ I used datasets 2-7 to create new independent variables, in addition to the ones
 See the "Figures" folder for maps and plots.
 
 # **Code** 💻
-See the "Code" folder for the following HTML files:
-1) Data Cleaning and Wrangling
-2) Feature Selection
-3) Model Training
-4) Results
-5) Results for New Data
+1) Data Cleaning and Wrangling: https://raw.githubusercontent.com/lcao21/GIS3_Final_Project/master/Progress/Part1.html
+2) Feature Selection:
+3) Model Training:
+4) Results:
 
 # **Future Work**❓
 In the future, I want to test this model on other boroughs and in turn, train new models more appropriate for each borough. Furthermore, I trained this model only on Manhattan home sales data from the past year and so another future goal would be to expand the time period of the data. For instance, incorporating data from the 2007-2008 recession would likely have a big impact on the final model. Lastly, I want to include more independent variables, as there are many more factors that go into determining sale price, namely the economy. There are also qualitative factors like aesthetics that would be interesting to quantify and incorporate.
