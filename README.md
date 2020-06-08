@@ -66,7 +66,7 @@ These are just a few of the visualizations I created:
 <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/corr_plot.png" width="250">
 
 *Trained models by MAE value*    
-<img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/model_maes.png" width="250">
+<img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/model_maes.png" width="300">
 
 
 # **Future Work**❓
