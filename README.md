@@ -53,19 +53,19 @@ These are just a few of the visualizations I created:
 Map of Manhattan homes by sale price    
 <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/home_sales.png" width="250">
 
-Map of intersections between homes and high schools. 
+Map of intersections between homes and high schools  
 <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/homes_schools_int.png" width="250">
 
-Map of intersections between homes and food vendors. 
+Map of intersections between homes and food vendors  
 <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/homes_food_int.png" width="250">
 
-Boruta rankings for features by importance. 
+Boruta rankings for features by importance  
 <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/Boruta.png" width="250">
 
-Correlation plot for 7 features deemed important. 
+Correlation plot for 7 features deemed important   
 <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/corr_plot.png" width="250">
 
-Model predictions by MAE. 
+Trained models by MAE value    
 <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/model_maes.png" width="250">
 
 
