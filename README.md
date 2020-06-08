@@ -88,7 +88,7 @@ These are just a few of the visualizations I created:
 *Map of homes by difference in predicted and actual sale prices*  
   <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/abs_diff.png" width="400" /> 
 
-*Interactive map of neighborhoods by MAE*  
+*Interactive map of neighborhoods by average MAE*  
   <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/neigh_mae.png" width="400" /> 
 
 # **Future Work**❓
