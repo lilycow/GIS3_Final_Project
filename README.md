@@ -53,7 +53,7 @@ These are just a few of the visualizations I created:
 *Left to right: Map of Manhattan homes by sale price; map of intersections between homes and high schools; map of intersections between homes and food vendors*    
 <p float="left">
   <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/home_sales.png" width="270" />
-  <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/homes_schools_int.png" width="250" /> 
+  <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/homes_schools_int.png" width="245" /> 
   <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/homes_food_int.png" width="240" />
 </p>
 
