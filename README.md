@@ -37,9 +37,9 @@ I used datasets 2-7 to create new independent variables, in addition to the ones
 See the "Figures" folder for maps and plots.
 
 # **Code** 💻
-1) Data Cleaning and Wrangling: https://raw.githubusercontent.com/lcao21/GIS3_Final_Project/master/Progress/Part1.html
-2) Feature Selection:
-3) Model Training:
+1) Data Cleaning and Wrangling: https://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/Part1.html
+2) Feature Selection: https://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/Part2.html
+3) Model Training: https://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/Part3.html
 4) Results:
 
 # **Future Work**❓
