@@ -54,7 +54,7 @@ These are just a few of the visualizations I created:
 <p float="left">
   <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/home_sales.png" width="270" />
   <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/homes_schools_int.png" width="250" /> 
-  <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/homes_food_int.png" width="230" />
+  <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/homes_food_int.png" width="240" />
 </p>
 
 *Boruta rankings of features by importance*  
