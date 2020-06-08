@@ -51,7 +51,7 @@ I used datasets 2-7 to create new independent variables, in addition to the ones
 These are just a few of the visualizations I created for the following parts:
 
 1) Data Cleaning and Wrangling
-<img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/home_sales.png" width="100">
+<img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/home_sales.png" width="200">
 
 
 2) Feature Selection
