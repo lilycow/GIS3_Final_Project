@@ -82,13 +82,13 @@ These are just a few of the visualizations I created:
   <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/land_sq.png" width="250" />
 </p>
 
-*Map of homes by predicted vs actual sale prices*  
+*Interactive map of homes by predicted vs actual sale prices*  
   <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/pred_v_actual.png" width="400" />
 
 *Map of homes by difference in predicted and actual sale prices*  
   <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/abs_diff.png" width="400" /> 
 
-*Map of neighborhoods by MAE*  
+*Interactive map of neighborhoods by MAE*  
   <img src="https://github.com/lcao21/GIS3_Final_Project/blob/master/Figures/neigh_mae.png" width="400" /> 
 
 # **Future Work**❓
