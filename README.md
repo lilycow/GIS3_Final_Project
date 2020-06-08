@@ -34,13 +34,21 @@ The main reason I chose this topic was to better understand how real estate comp
 I used datasets 2-7 to create new independent variables, in addition to the ones I included from the original rolling sales data. For datasets 2-5, each variable represented the number of schools, food vendors, parks, or subway stations within a 1 mile buffer of each home. I used an article from curbed.com to create a variable that ranks the neighborhood of each home by affordability. So, before feature selection, the independent variables I considered were num_schools,num_parks, num_food, num_subway, neighborhood_ord, RESIDENTIAL.UNITS, COMMERCIAL.UNITS, LAND.SQUARE.FEET, GROSS.SQUARE.FEET.
     
 # **Figures** 🗺
-See the "Figures" folder for maps and plots.
+These are just a few of the visualizations I created:
 
 # **Code** 💻
 1) Data Cleaning and Wrangling: https://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/Part1.html
+   * Cleaned the dataset on property rolling sales including filtering for homes located in Manhattan and geocoding addresses
+   * Used datasets 2-7 to create 5 new independent variables to merge with the home sales dataframe: num_schools, num_food, num_parks, num_subway,neighborhood_ord
 2) Feature Selection: https://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/Part2.html
+   * Used Boruta to find the most important features in predicting sale price
+   * Of the 12 independent variables I chose, 7 were deemed important: num_food, num_subway, num_parks, num_schools, neighborhood_ord, RESIDENTIAL.UNITS, LAND.SQUARE.FEET
 3) Model Training: https://github.com/lcao21/GIS3_Final_Project/blob/master/Progress/Part3.html
+   * Normalized data and split it into training (70%) and testing (30%) sets
+   * Trained 4 different models: OLS, Poisson, Random Forest, GBM (Generalized Boosted Machine)
+   * Ultimately picked GBM since it had the smallest MAE (mean absolute error)
 4) Results:
+   * Created maps to visualize predictions vs actual sale prices
 
 # **Future Work**❓
 In the future, I want to test this model on other boroughs and in turn, train new models more appropriate for each borough. Furthermore, I trained this model only on Manhattan home sales data from the past year and so another future goal would be to expand the time period of the data. For instance, incorporating data from the 2007-2008 recession would likely have a big impact on the final model. Lastly, I want to include more independent variables, as there are many more factors that go into determining sale price, namely the economy. There are also qualitative factors like aesthetics that would be interesting to quantify and incorporate.
